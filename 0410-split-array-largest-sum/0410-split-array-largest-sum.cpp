@@ -21,14 +21,12 @@ public:
         for(int i=0;i<nums.size();i++){
             high+=nums[i];
         }
-        long long int ans=0;
         long long int mid = (low+high)/2;
 
         while(low<=high){
             mid=(low+high)/2;
 
             if(canSub(nums,k,mid)){
-                ans=mid;
                 low=mid+1;
             }else{
                 high=mid-1;
