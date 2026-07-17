@@ -13,9 +13,6 @@ class Solution {
 public:
     int mx = INT_MIN;
     int maxPathSum(TreeNode* root) {
-        if(root==NULL){
-            return 0;
-        }
         maxSum(root);
         return mx;
         
