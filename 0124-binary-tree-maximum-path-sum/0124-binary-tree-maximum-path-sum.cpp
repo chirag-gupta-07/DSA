@@ -25,10 +25,10 @@ public:
         if(root==NULL){
             return 0;
         }
-        int lsum = maxSum(root->left);
-        int rsum = maxSum(root->right);
+        int lsum = max(0,maxSum(root->left));
+        int rsum = max(0,maxSum(root->right));
 
-        mx = max(max(max(mx,root->val+lsum+rsum),root->val+max(lsum,rsum)),root->val);
-        return max(root->val + max(lsum,rsum),root->val);
+        mx = max(mx,root->val+lsum+rsum);
+        return root->val + max(lsum,rsum);
     }
 };
