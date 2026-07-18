@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chirag-gupta-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/chirag-gupta-07/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/chirag-gupta-07/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/chirag-gupta-07/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chirag-gupta-07/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
