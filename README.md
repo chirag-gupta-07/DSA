@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chirag-gupta-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0410-split-array-largest-sum) |
+| [1260-shift-2d-grid](https://github.com/chirag-gupta-07/DSA/tree/master/1260-shift-2d-grid) |
 | [1539-kth-missing-positive-number](https://github.com/chirag-gupta-07/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/chirag-gupta-07/DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/chirag-gupta-07/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
