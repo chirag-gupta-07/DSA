@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/chirag-gupta-07/DSA/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/chirag-gupta-07/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/chirag-gupta-07/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
