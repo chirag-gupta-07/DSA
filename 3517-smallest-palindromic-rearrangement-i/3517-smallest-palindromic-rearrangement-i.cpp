@@ -1,11 +1,8 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
-        int n=s.size();
-        int st=0;
-        int mid=n/2;
-        int end;
-        if(n%2==0){
+        int mid=s.size()/2;
+        if(s.size()%2==0){
             sort(s.begin(),s.end()-mid);
             sort(s.begin()+mid,s.end(),greater<char>());
         }else{
