@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/chirag-gupta-07/DSA/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/chirag-gupta-07/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chirag-gupta-07/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -111,4 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chirag-gupta-07/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
