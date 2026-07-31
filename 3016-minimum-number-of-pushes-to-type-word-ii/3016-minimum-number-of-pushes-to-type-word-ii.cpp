@@ -1,16 +1,12 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        unordered_map<char,int> mp;
+        vector<int> cnt(26,0);
 
         for(int i=0;i<word.size();i++){
-            mp[word[i]]++;
+            cnt[word[i]-'a']++;
         }
-
-        vector<pair<char,int>> cnt(mp.begin(),mp.end());
-        sort(cnt.begin(),cnt.end(),[](const auto &a,const auto &b){
-            return a.second>b.second;
-        });
+        sort(cnt.begin(),cnt.end(),greater());
 
         int sum=0;
         int flag=1;
@@ -20,9 +16,7 @@ public:
                 flag++;
                 j=0;
             }
-            // cout<<j<<"\n"<<cnt[i].first<<"\n";
-            sum+=cnt[i].second*flag;
-            // cout<<sum<<"\n";
+            sum+=cnt[i]*flag;
             j++;
         }
 
