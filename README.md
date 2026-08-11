@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/chirag-gupta-07/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chirag-gupta-07/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/chirag-gupta-07/DSA/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/chirag-gupta-07/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag-gupta-07/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chirag-gupta-07/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/chirag-gupta-07/DSA/tree/master/0290-word-pattern) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chirag-gupta-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
