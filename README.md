@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/chirag-gupta-07/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/chirag-gupta-07/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/chirag-gupta-07/DSA/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
