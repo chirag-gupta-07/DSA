@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chirag-gupta-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/chirag-gupta-07/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/chirag-gupta-07/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chirag-gupta-07/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chirag-gupta-07/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chirag-gupta-07/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/chirag-gupta-07/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/chirag-gupta-07/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/chirag-gupta-07/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag-gupta-07/DSA/tree/master/1903-largest-odd-number-in-string) |
