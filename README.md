@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chirag-gupta-07/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chirag-gupta-07/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/chirag-gupta-07/DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/chirag-gupta-07/DSA/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/chirag-gupta-07/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/chirag-gupta-07/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/chirag-gupta-07/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chirag-gupta-07/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/chirag-gupta-07/DSA/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/chirag-gupta-07/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag-gupta-07/DSA/tree/master/1903-largest-odd-number-in-string) |
