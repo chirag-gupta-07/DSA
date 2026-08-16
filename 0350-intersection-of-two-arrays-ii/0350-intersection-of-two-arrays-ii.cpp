@@ -6,20 +6,13 @@ public:
         int i=0;
         int j=0;
         vector <int> ans;
-        while(i<nums1.size() && j<nums2.size()){
-            while(i<nums1.size() && nums1[i]<nums2[j] ){
+        
+        while (i < nums1.size() && j < nums2.size()) {
+            if (nums1[i] < nums2[j]) {
                 i++;
-            }
-            if(i == nums1.size()) {
-                break;
-            }
-            while(j<nums2.size() && nums1[i]>nums2[j]){
+            } else if (nums1[i] > nums2[j]) {
                 j++;
-            }
-            if(j == nums2.size()) {
-                break;
-            }
-            if(nums1[i]==nums2[j]){
+            } else {
                 ans.push_back(nums1[i]);
                 i++;
                 j++;
