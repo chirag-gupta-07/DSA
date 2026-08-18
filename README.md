@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/0002-add-two-numbers) |
+| [0172-factorial-trailing-zeroes](https://github.com/chirag-gupta-07/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/chirag-gupta-07/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/chirag-gupta-07/DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/chirag-gupta-07/DSA/tree/master/0292-nim-game) |
