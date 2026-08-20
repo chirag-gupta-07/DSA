@@ -20,18 +20,13 @@ public:
                         n2=mid2-1;
                     }else if(matrix[mid1][mid2]<target){
                         n1=mid2+1;
-                    }else{
-                        return false;
                     }
-
                 }
                 return false;
             }else if(matrix[mid1][0]>target){
                 m2=mid1-1;
             }else if(matrix[mid1][n]<target){
                 m1=mid1+1;
-            }else{
-                return false;
             }
         }
 
