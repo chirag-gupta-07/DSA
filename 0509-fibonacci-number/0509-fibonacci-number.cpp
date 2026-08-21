@@ -2,7 +2,7 @@ class Solution {
 public:
     int fibonacci(int n,vector<int>&dp){
         if(n==0 || n==1){
-            return n;
+            return dp[n]=n;
         }
         if(dp[n]!=-1){
             return dp[n];
