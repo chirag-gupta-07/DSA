@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/chirag-gupta-07/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/chirag-gupta-07/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/chirag-gupta-07/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/chirag-gupta-07/DSA/tree/master/0172-factorial-trailing-zeroes) |
