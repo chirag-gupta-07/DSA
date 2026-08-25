@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/chirag-gupta-07/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chirag-gupta-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/chirag-gupta-07/DSA/tree/master/0048-rotate-image) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chirag-gupta-07/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chirag-gupta-07/DSA/tree/master/0290-word-pattern) |
