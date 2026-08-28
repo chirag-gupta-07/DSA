@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/chirag-gupta-07/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/chirag-gupta-07/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/chirag-gupta-07/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/chirag-gupta-07/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag-gupta-07/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/chirag-gupta-07/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/chirag-gupta-07/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/chirag-gupta-07/DSA/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/chirag-gupta-07/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/chirag-gupta-07/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/chirag-gupta-07/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/chirag-gupta-07/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag-gupta-07/DSA/tree/master/1903-largest-odd-number-in-string) |
