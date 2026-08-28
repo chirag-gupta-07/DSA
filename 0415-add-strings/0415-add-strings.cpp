@@ -10,7 +10,7 @@ public:
             int b=num2[num2.size()-1-i]-(int)'0';
             sum=a+b+carry;
             carry=sum/10;
-            ans=to_string(sum%10)+ans;
+            ans=char(sum % 10 + '0')+ans;
             i++;
         }
 
@@ -18,7 +18,7 @@ public:
             int a=num1[num1.size()-1-i]-(int)'0';
             sum=a+carry;
             carry=sum/10;
-            ans=to_string(sum%10)+ans;
+            ans=char(sum % 10 + '0')+ans;
             i++;
         }
 
@@ -26,7 +26,7 @@ public:
             int b=num2[num2.size()-1-i]-(int)'0';
             sum=b+carry;
             carry=sum/10;
-            ans=to_string(sum%10)+ans;
+            ans=char(sum % 10 + '0')+ans;
             i++;
         }
 
