@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chirag-gupta-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/chirag-gupta-07/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/chirag-gupta-07/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/chirag-gupta-07/DSA/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/chirag-gupta-07/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0410-split-array-largest-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/chirag-gupta-07/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/chirag-gupta-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/chirag-gupta-07/DSA/tree/master/0338-counting-bits) |
 ## Sorting
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/chirag-gupta-07/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/chirag-gupta-07/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/chirag-gupta-07/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
