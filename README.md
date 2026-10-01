@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chirag-gupta-07/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/chirag-gupta-07/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/chirag-gupta-07/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chirag-gupta-07/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0205-isomorphic-strings) |
@@ -221,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
