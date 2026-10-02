@@ -1,22 +1,30 @@
 class Solution {
 public:
-    vector<string> validStrings(int n) {
-        vector<string> a={"0","1"};
 
-        for(int i=0;i<n-1;i++){
-            int t=a.size();
-            for(int j=0;j<t;j++){
-                
-                if(a[j][i]=='0'){
-                    a[j]+="1";
-                }else if(a[j][i]=='1'){
-                    
-                    a.push_back((a[j]+"1"));
-                    a[j]+="0";
-                }
+    void generate(vector<string> &v,int n,int i,string temp){
+        if(i==n){
+            v.push_back(temp);
+            return;
+        }
+
+        if(i==0){
+            generate(v,n,i+1,temp+"0");
+            generate(v,n,i+1,temp+"1");
+        }else if(i<n){
+            if(temp[i-1]=='0'){
+                generate(v,n,i+1,temp+"1");
+            }else{
+                generate(v,n,i+1,temp+"0");
+                generate(v,n,i+1,temp+"1");
             }
         }
 
+        return;
+    }
+
+    vector<string> validStrings(int n) {
+        vector<string> a;
+        generate(a,n,0,"");
         return a;
         
     }
