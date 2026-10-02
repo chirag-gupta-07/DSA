@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/chirag-gupta-07/DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/chirag-gupta-07/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag-gupta-07/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/chirag-gupta-07/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/chirag-gupta-07/DSA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
