@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/chirag-gupta-07/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/chirag-gupta-07/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/chirag-gupta-07/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/chirag-gupta-07/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/chirag-gupta-07/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/chirag-gupta-07/DSA/tree/master/0258-add-digits) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/chirag-gupta-07/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/chirag-gupta-07/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/chirag-gupta-07/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/1922-count-good-numbers) |
