@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chirag-gupta-07/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chirag-gupta-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/chirag-gupta-07/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/chirag-gupta-07/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/chirag-gupta-07/DSA/tree/master/0078-subsets) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/chirag-gupta-07/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/chirag-gupta-07/DSA/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/chirag-gupta-07/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Manacher
