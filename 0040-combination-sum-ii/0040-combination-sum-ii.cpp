@@ -1,6 +1,9 @@
 class Solution {
 public:
     void combination(vector<int>& c,int t,vector<vector<int>> &v,int i,vector<int>&temp,int sum){
+        if(t==0){
+            return;
+        }
         if(sum==t){
             v.push_back(temp);
             return;
