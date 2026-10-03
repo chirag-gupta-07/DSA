@@ -15,6 +15,9 @@ public:
             if(j>i && c[j]==c[j-1]){
                 continue;
             }
+            if(c[j]>t){
+                break;
+            }
             
             temp.push_back(c[j]);
             combination(c,t,v,j+1,temp,sum+c[j]);
