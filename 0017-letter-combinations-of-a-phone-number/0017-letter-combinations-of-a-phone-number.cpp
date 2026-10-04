@@ -16,7 +16,6 @@ public:
         string mapping[8] = {"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
 
         generate(digits,0,ans,"",mapping);
-        // cout<<(char)(keys('7','c')+1);
 
         return ans;
     }
