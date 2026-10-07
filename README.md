@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chirag-gupta-07/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/chirag-gupta-07/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/chirag-gupta-07/DSA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chirag-gupta-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chirag-gupta-07/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chirag-gupta-07/DSA/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/chirag-gupta-07/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chirag-gupta-07/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/chirag-gupta-07/DSA/tree/master/0392-is-subsequence) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/chirag-gupta-07/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/chirag-gupta-07/DSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/chirag-gupta-07/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Manacher
 |  |
