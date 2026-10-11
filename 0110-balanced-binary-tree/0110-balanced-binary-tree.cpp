@@ -11,31 +11,21 @@
  */
 class Solution {
 public:
-    int check(TreeNode* root){
-        if(root==NULL){
-            return 0;
-        }
-        int lh=check(root->left);
-        int rh=check(root->right);
-        if(lh==-1 || rh==-1){
-            return -1;
-        }
-        if(abs(lh-rh)>1){
-            return -1;
-        }
-        return 1+max(lh,rh);
+    int height(TreeNode* root){
+        if(root==NULL) return 0;
 
+        return 1 + max(height(root->left),height(root->right));
     }
     bool isBalanced(TreeNode* root) {
-        if(root==NULL){
-            return true;
-        }
+        if(root==NULL) return true;
 
-        if(check(root)==-1){
+        bool left = isBalanced(root->left);
+        bool right = isBalanced(root->right);
+        int diff = abs(height(root->left)-height(root->right));
+        if(diff>1 ||!left ||!right){
             return false;
-        }else{
-            return true;
         }
 
+        return true;
     }
 };
