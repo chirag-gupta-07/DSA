@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chirag-gupta-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chirag-gupta-07/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chirag-gupta-07/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chirag-gupta-07/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag-gupta-07/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chirag-gupta-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chirag-gupta-07/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/chirag-gupta-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/chirag-gupta-07/DSA/tree/master/0338-counting-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chirag-gupta-07/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/chirag-gupta-07/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/chirag-gupta-07/DSA/tree/master/0409-longest-palindrome) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chirag-gupta-07/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chirag-gupta-07/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chirag-gupta-07/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/chirag-gupta-07/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
