@@ -4,28 +4,16 @@ public:
         stack<int> st;
         vector<int> ans(nums.size());
 
-        for(int i=nums.size()-1;i>=0;i--){
-            while(!st.empty() && st.top()<=nums[i]){
+        for(int i=2*(nums.size()-1);i>=0;i--){
+            while(!st.empty() && st.top()<=nums[i%nums.size()]){
                 st.pop();
             }
             if(!st.empty()){
-                ans[i]=st.top();
+                ans[i%nums.size()]=st.top();
             }else{
-                ans[i]=-1;
+                ans[i%nums.size()]=-1;
             }
-            st.push(nums[i]);
-        }
-
-        for(int i=nums.size()-1;i>=0;i--){
-            while(!st.empty() && st.top()<=nums[i]){
-                st.pop();
-            }
-            if(!st.empty()){
-                ans[i]=st.top();
-            }else{
-                ans[i]=-1;
-            }
-            st.push(nums[i]);
+            st.push(nums[i%nums.size()]);
         }
 
         return ans;  
