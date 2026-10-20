@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/chirag-gupta-07/DSA/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/chirag-gupta-07/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/chirag-gupta-07/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [1260-shift-2d-grid](https://github.com/chirag-gupta-07/DSA/tree/master/1260-shift-2d-grid) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chirag-gupta-07/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/chirag-gupta-07/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/chirag-gupta-07/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/chirag-gupta-07/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chirag-gupta-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -429,4 +431,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/chirag-gupta-07/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
