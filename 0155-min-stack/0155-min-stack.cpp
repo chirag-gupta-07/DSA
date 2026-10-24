@@ -7,18 +7,17 @@ public:
     }
     
     void push(int value) {
-        if(st.empty()){
+        if(st.empty() || helper.top()>=value){
             helper.push(value);
-        }else{
-            int ele = min(helper.top(),value);
-            helper.push(ele);
         }
         st.push(value);
     }
     
     void pop() {
+        if(st.top() == helper.top()){
+            helper.pop();
+        }
         st.pop();
-        helper.pop();
     }
     
     int top() {
