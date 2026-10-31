@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/chirag-gupta-07/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/chirag-gupta-07/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/chirag-gupta-07/DSA/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/chirag-gupta-07/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/chirag-gupta-07/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/chirag-gupta-07/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/chirag-gupta-07/DSA/tree/master/0263-ugly-number) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/chirag-gupta-07/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chirag-gupta-07/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/chirag-gupta-07/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chirag-gupta-07/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/chirag-gupta-07/DSA/tree/master/0290-word-pattern) |
