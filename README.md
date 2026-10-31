@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/chirag-gupta-07/DSA/tree/master/1260-shift-2d-grid) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chirag-gupta-07/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/chirag-gupta-07/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chirag-gupta-07/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chirag-gupta-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chirag-gupta-07/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/chirag-gupta-07/DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/chirag-gupta-07/DSA/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chirag-gupta-07/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/chirag-gupta-07/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/chirag-gupta-07/DSA/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/chirag-gupta-07/DSA/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chirag-gupta-07/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/chirag-gupta-07/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/chirag-gupta-07/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/chirag-gupta-07/DSA/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chirag-gupta-07/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chirag-gupta-07/DSA/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chirag-gupta-07/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
