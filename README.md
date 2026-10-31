@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/chirag-gupta-07/DSA/tree/master/1260-shift-2d-grid) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chirag-gupta-07/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/chirag-gupta-07/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/chirag-gupta-07/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chirag-gupta-07/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chirag-gupta-07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chirag-gupta-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/chirag-gupta-07/DSA/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/chirag-gupta-07/DSA/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/chirag-gupta-07/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chirag-gupta-07/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chirag-gupta-07/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chirag-gupta-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/chirag-gupta-07/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chirag-gupta-07/DSA/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/chirag-gupta-07/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chirag-gupta-07/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
