@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/chirag-gupta-07/DSA/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/chirag-gupta-07/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/chirag-gupta-07/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/chirag-gupta-07/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/chirag-gupta-07/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chirag-gupta-07/DSA/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/chirag-gupta-07/DSA/tree/master/0492-construct-the-rectangle) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/chirag-gupta-07/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/chirag-gupta-07/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/chirag-gupta-07/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/chirag-gupta-07/DSA/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chirag-gupta-07/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/chirag-gupta-07/DSA/tree/master/1922-count-good-numbers) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/chirag-gupta-07/DSA/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/chirag-gupta-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/chirag-gupta-07/DSA/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/chirag-gupta-07/DSA/tree/master/0342-power-of-four) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chirag-gupta-07/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/chirag-gupta-07/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
