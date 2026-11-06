@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/chirag-gupta-07/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/chirag-gupta-07/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/chirag-gupta-07/DSA/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/chirag-gupta-07/DSA/tree/master/0461-hamming-distance) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chirag-gupta-07/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/chirag-gupta-07/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
